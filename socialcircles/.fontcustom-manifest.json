@@ -1,0 +1,128 @@
+{
+  "checksum": {
+    "previous": "0229a25f742e82bbbcf6ca7ba86fa674f9509af93a6ca7d0801b5b12d72e0852",
+    "current": "0229a25f742e82bbbcf6ca7ba86fa674f9509af93a6ca7d0801b5b12d72e0852"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "behance": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/behance.svg"
+    },
+    "blogger": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/blogger.svg"
+    },
+    "dribbble": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/dribbble.svg"
+    },
+    "dropbox": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/dropbox.svg"
+    },
+    "facebook": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/facebook.svg"
+    },
+    "flickr": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/flickr.svg"
+    },
+    "google": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/google.svg"
+    },
+    "google-disk": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/google-disk.svg"
+    },
+    "instagram": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/instagram.svg"
+    },
+    "linkedin": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/linkedin.svg"
+    },
+    "pinterest": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/pinterest.svg"
+    },
+    "rss": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/rss.svg"
+    },
+    "skype": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/skype.svg"
+    },
+    "stumbleupon": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/stumbleupon.svg"
+    },
+    "tumblr": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/tumblr.svg"
+    },
+    "twitter": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/twitter.svg"
+    },
+    "vimeo": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/vimeo.svg"
+    },
+    "vine": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/vine.svg"
+    },
+    "yelp": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/yelp.svg"
+    },
+    "youtube": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg/youtube.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111692-social-circles/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111692-social-circles/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111692-social-circles/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111692-social-circles/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111692-social-circles/font/flaticon.css"
+  ]
+}

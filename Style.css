@@ -1,0 +1,247 @@
+body {
+background-image: url("images/bg.jpg");
+background-size: 1910px 1796px;
+}
+
+/*Ci dessus : lien de l'arrière plan et sa résolution*/
+
+
+div#header {
+height:320px;
+width:1020px;
+background-color: black;
+margin: auto;
+}
+
+div#container {
+height:1400px;
+width:1020px;
+background-color: white;
+margin: auto;
+}
+
+#barremenu {
+list-style-type: none; 
+margin: 0 auto;
+padding: 0;
+background-color: black;
+text-align: center;
+width:1020px;
+}
+
+#barremenu li {
+display: inline-block;
+margin: auto;
+}
+
+#barremenu li a {
+display: block;
+color: white;
+text-align: center;
+padding: 10px 12px;
+text-decoration: none;
+font-family: "josefin Sans";
+}
+
+#barremenu li a:hover {
+color: #cfa205;
+}
+
+h1 {
+color: #cfa205;
+text-align: center;
+font-size: 133px;
+margin: 30px;
+font-family: "josefin Sans";
+font-weight: 300;
+padding: 0;
+}
+
+#soustext {
+margin: 0 auto;
+padding: 0;
+text-align: center;
+width:1020px;
+}
+
+#soustext li {
+display: inline;
+color: #cfa205;
+margin: 0 auto;
+padding: 0;
+font-family: "Bitter";
+}
+
+
+/*Ci dessus: Ensemble de code regroupant les fonctionnalité de l'entête*/
+
+div#social {
+position: relative;
+text-align: center;
+margin: 0 auto;
+height:60px;
+width:1020px;
+background-color: #e8e8e8;
+}
+
+
+#soc {
+left: 40%;
+position: absolute;
+top: 10%;
+transform: translateY(10%);
+height: 60px;
+padding: 0;
+text-align: center;
+list-style-type: none;
+margin: 0 auto;
+}
+
+#soc li {
+text-align: center;
+display: inline-block;
+margin: auto;
+padding: 0;
+}
+
+#soc li a {
+display: block;
+margin: 0;
+padding: 0;
+text-align: center;
+text-decoration: none;
+}
+
+/*Ci dessus : Ensemble de code concernant la fonctionnalité de la barre social*/
+
+.pucebefore::before {
+content: "\2022";
+color: #cfa205;
+padding-right: 1px;
+font-size: 16px;
+font-weight: bold;
+margin-right: 2px;
+}
+
+.puceafter::after {
+content: "\2022";
+color: #cfa205;
+padding-left: 1px;
+font-size: 16px;
+font-weight: bold;
+margin-left: 2px;
+}
+
+/*Ci dessus: Code concernant les puces de l'entête*/
+
+section {
+text-align: center;
+margin: 0 auto;
+width: 900px;
+height: 90px;
+}
+
+p {
+color: #7a7a7a;
+font-family: "Bitter";
+font-weight: bold;
+text-align: center;
+}
+
+/*Ci dessus: Code du paragraphe du corps de la page au format font-family:"Bitter" */
+
+div#space {
+width: 1020px;
+height: 60px;
+margin: 0 auto;
+}
+
+div#secondspace {
+width: 900px;
+height: 110px;
+margin: 0 auto;
+}
+
+#secondspace table {
+width: 900px;
+height: 55px;
+margin: 0 auto;
+border-bottom-style: solid;
+border-color: #e8e8e8;
+}
+
+/*Ci dessus: Codes permettant l'espace entre la barre social au paragraphe puis du paragraphe vers le "footer" */
+
+#footer {
+width: 900px;
+height: 675px;
+margin: 0 auto;
+display: table;
+}
+
+.row {
+display: table-row;
+height: 195px;
+}
+
+.row2 {
+display: table-row;
+height: 480px;
+}
+
+.column1 {
+display: table-cell;
+width: 260px;
+}
+
+.column2 {
+display: table-cell;
+text-align: center;
+width: 260px;
+}
+
+.column3 {
+display: table-cell;
+text-align: right;
+width: 260px;
+}
+
+.article1 {
+display: table-cell;
+color: #7a7a7a;
+font-size: 14px;
+font-family: "Bitter";
+}
+
+.article2 {
+display: table-cell;
+color: #7a7a7a;
+font-size: 14px;
+font-family: "Bitter";
+}
+
+.article3 {
+display: table-cell;
+color: #7a7a7a;
+font-size: 14px;
+font-family: "Bitter";
+}
+
+h5 {
+font-size: 18px;
+color: black;
+text-align: center;
+}
+
+#footer p {
+color: #7a7a7a;
+font-family: "Bitter";
+font-weight: normal;
+line-height: 25px;
+margin: auto;
+text-align: center;
+vertical-align: middle;
+}
+
+/*Ci dessus: Ensemble de codes permettant la fonctionnalité du "footer"*/
+
